@@ -1,1 +1,1 @@
-Jacascript going to blobal feature for all kind of platforms.
+Jacascript going to global feature for all kind of platforms.
