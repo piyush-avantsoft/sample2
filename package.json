@@ -1,0 +1,22 @@
+{
+  "name": "GruntSample",
+  "version": "0.0.0",
+  "description": "automization for git operations",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:piyush-avantsoft/sample2.git"
+  },
+  "keywords": [
+    "grunt-git"
+  ],
+  "author": "PD",
+  "license": "Public",
+  "bugs": {
+    "url": "https://github.com/piyush-avantsoft/sample2/issues"
+  },
+  "homepage": "https://github.com/piyush-avantsoft/sample2"
+}
