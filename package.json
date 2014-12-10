@@ -2,9 +2,9 @@
   "name": "GruntSample",
   "version": "0.0.0",
   "description": "automization for git operations",
-  "main": "test.js",
+  "main": "Gruntfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "Gruntfile": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
